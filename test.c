@@ -2,6 +2,6 @@
 int main()
 {
 	//lab1 add code 
-	printf("hello world!\n");
+	printf("hello world lab1!\n");
 	return 0;
 }
